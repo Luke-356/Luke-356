@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Luke-356
+- 👋 Hi, I’m Nyi Nyi Lwin
 - 👀 I’m interested in Web Development, UI/UX design
 - 🌱 I’m currently learning Hybrid Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for web development job opportunaties
 - 📫 How to reach me ...
 
 <!---
