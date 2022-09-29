@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nyi Nyi Lwin
 - 👀 I’m interested in Web Development, UI/UX design
 - 🌱 I’m currently learning Hybrid Web Development
-- 💞️ I’m looking for web development job opportunaties
-- 📫 How to reach me ...
+- 📫 How to reach me ... nyinyilwin356@gmail.com
 
 <!---
 Luke-356/Luke-356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
