@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nyi Nyi Lwin
-- 👀 I’m interested in Web Development, UI/UX design
+- 👀 I’m interested in Web Development, Software Enginnering, Linux and Artificial Intelligence 
 - 🌱 I’m currently learning Android Development and IOS Development
 - 📫 How to reach me ... nyinyilwin356@gmail.com
 
