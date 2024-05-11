@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-luke-356.vercel.app/](https://my-portfolio-luke-356.vercel.app/)
 
-- 💬 Ask me about **Web Development,Software Enginnering**
+- 💬 Ask me about **Web Development, Software Enginnering**
 
 - 📫 How to reach me **nyinyilwin356@gmail.com**
 
-- ⚡ Fun fact **Linux Enthusiast,Likes Reading Novels**
+- ⚡ Fun fact **Linux Enthusiast, Likes Reading Novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
