@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Nyi Nyi Lwin
-- 👀 I’m interested in Software Enginnering, Web Development, Linux and Artificial Intelligence 
-- 🌱 I’m currently pursuing Masters in Computer Science at Pace University New York City
-- 📫 How to reach me ... nyinyilwin356@gmail.com
+👋 Hello! I'm Nyi Nyi Lwin, a software engineer from New York City currently pursuing a Masters in Computer Science at Pace University. I'm passionate about discovering new innovations in computer technologies, with a keen interest in web development, Linux, and AI.
 
-<!---
-Luke-356/Luke-356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 I thrive on researching the latest advancements in tech and enjoy the challenge of finding creative solutions to everyday problems. Whether it's coding, exploring the depths of Linux, or delving into the world of AI, I'm always eager to expand my knowledge and skills.
+
+💻 When I'm not busy with technology, you'll often find me brainstorming new projects, refining my coding techniques, or seeking inspiration within the tech community.
+
+🚀 Let's connect and explore the exciting possibilities of technology together!
+
+
