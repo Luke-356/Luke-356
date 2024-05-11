@@ -1,4 +1,7 @@
-👋 Hello! I'm Nyi Nyi Lwin, a software engineer from New York City currently pursuing a Masters in Computer Science at Pace University. I'm passionate about discovering new innovations in computer technologies, with a keen interest in web development, Linux, and AI.
+### Hi there 👋, My name is Nyi Nyi Lwin
+#### A software engineer from New York City 
+
+🔥 currently pursuing a Masters in Computer Science at Pace University. I'm passionate about discovering new innovations in computer technologies, with a keen interest in web development, Linux, and AI.
 
 🔍 I thrive on researching the latest advancements in tech and enjoy the challenge of finding creative solutions to everyday problems. Whether it's coding, exploring the depths of Linux, or delving into the world of AI, I'm always eager to expand my knowledge and skills.
 
