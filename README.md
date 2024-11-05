@@ -5,15 +5,15 @@
 
 - 🔥 Currently pursuing Masters in Computer Science at **Pace University**
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Data Science Tools** for better research
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-luke-356.vercel.app/](https://my-portfolio-luke-356.vercel.app/)
+- 🌟 Passionate about anything that require creativity   
 
-- 💬 Ask me about **Web Development, Software Enginnering**
+- 🎨 Also enjoy UI design and UX research
 
-- 📫 How to reach me **nyinyilwin356@gmail.com**
+- 📫 You can reach me at **nyinyilwin356@gmail.com**
 
-- ⚡ Fun fact **Linux Enthusiast, Likes Reading Novels**
+- ⚡ Fun facts **Linux Enthusiast, Likes Reading Novels, Big time gamer, Enjoy weight lifting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
