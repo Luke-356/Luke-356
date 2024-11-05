@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer from New York City</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
-- 🔥 Currently pursuing Masters in Computer Science at **Pace University**
+- 🔥 Pursuing Masters in Computer Science at **Pace University**
 
 - 🌱 I’m currently learning **Data Science Tools** for better research
 
