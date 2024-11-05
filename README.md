@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **nyinyilwin356@gmail.com**
 
-- ⚡ Fun facts **Linux Enthusiast, Likes Reading Novels, Big time gamer, Enjoy weight lifting**
+- ⚡ Hobbies **Linux Enthusiast, Reading Novels, Gaming, Weight Lifting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
