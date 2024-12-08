@@ -11,7 +11,7 @@
 
 - 🎨 Also enjoy UI design and UX research
 
-- 📫 You can reach me at **nyinyilwin356@gmail.com**
+- 📫 You can reach me at **nyinyilwin356@gmail.com** or **nyinyilwin0101@gmail.com**
 
 - ⚡ Hobbies **Linux Enthusiast, Reading Novels, Gaming, Weight Lifting**
 
