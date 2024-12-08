@@ -5,7 +5,7 @@
 
 - 🔥 Pursuing Masters in Computer Science at **Pace University**
 
-- 🌱 I’m currently learning **Data Science Tools** for better research
+- 🌱 I’m currently learning **Game Programming** for PC game development
 
 - 🌟 Passionate about anything that require creativity   
 
