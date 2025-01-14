@@ -5,7 +5,7 @@
 
 - 🔥 Pursuing Masters in Computer Science at **Pace University**
 
-- 🌱 I’m currently learning **Computational statistics** and **Artificial Intelligence**
+- 🌱 I’m currently learning **Computational statistics** for analyzing large datasets
 
 - 🌟 Passionate about anything that require creativity   
 
