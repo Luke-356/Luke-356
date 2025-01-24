@@ -11,14 +11,6 @@
   - UI/UX design and research to craft seamless digital experiences  
 - **Hobbies**: Linux enthusiast 🐧, avid reader 📚, gamer 🎮, and weightlifting enthusiast 💪  
 
----
-
-## 🛠️ Tech Stack  
-- **Languages**: Python, Java, JavaScript, C#  
-- **Frameworks**: React.js, Node.js, Django  
-- **Tools**: Git, Linux, Visual Studio Code  
-
----
 
 ## 📫 How to Reach Me  
 - **Email**: [nyinyilwin356@gmail.com](mailto:nyinyilwin356@gmail.com) | [nyinyilwin0101@gmail.com](mailto:nyinyilwin0101@gmail.com)  
