@@ -3,13 +3,13 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> My name is Nyi Nyi Lwin (Luke)</h1>
 <h3 align="center">A passionate software engineer from New York City</h3>
 
-<img align="right" alt="coding" width="500" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
+<img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
 ### 🔥 Currently Pursuing:
 - A Master’s in Computer Science at Pace University
 
 ### 🌱 Learning:
-- Artificial Intelligence for analyzing large datasets and solving <br/>
+- Artificial Intelligence for analyzing large datasets and solving 
   real-world problems
 
 ### 🌟 Passionate About:
