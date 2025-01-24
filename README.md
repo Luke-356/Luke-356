@@ -5,9 +5,9 @@
 
 - 🔥 Pursuing Masters in Computer Science at **Pace University**
 
-- 🌱 I’m currently learning **Computational statistics** for analyzing large datasets
+- 🌱 I’m currently learning **Artificial Intelligence** for analyzing large datasets
 
-- 🌟 Passionate about anything that require creativity   
+- 🌟 Passionate about frontend development and anything that require creativity   
 
 - 🎨 Also enjoy UI design and UX research
 
