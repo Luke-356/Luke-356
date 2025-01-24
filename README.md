@@ -5,9 +5,9 @@
 
 🔥 Currently Pursuing: A Master’s in Computer Science at Pace University <br>
 🌱 Learning: Artificial Intelligence for analyzing large datasets and solving real-world problems <br>
-🌟 Passionate About: <br>
-  - Frontend development and building creative, user-friendly applications  <br>
-  - UI/UX design and research to craft seamless digital experiences <br>  
+🌟 Passionate About: 
+  - Frontend development and building creative, user-friendly applications  
+  - UI/UX design and research to craft seamless digital experiences  
 ⚡ Hobbies: Linux enthusiast 🐧, avid reader 📚, gamer 🎮, and weightlifting enthusiast 💪 <br>
 How to Reach Me <br>
 📫 Email: nyinyilwin356@gmail.com | nyinyilwin0101@gmail.com
