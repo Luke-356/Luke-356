@@ -3,17 +3,27 @@
 <h3 align="center">A passionate software engineer from New York City</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
-- 🔥 Pursuing Masters in Computer Science at **Pace University**
+## 🔥 About Me  
+- **Currently Pursuing**: Master’s in Computer Science at **Pace University**  
+- **Learning**: Artificial Intelligence for analyzing large datasets and solving real-world problems  
+- **Passionate About**:  
+  - Frontend development and building creative, user-friendly applications  
+  - UI/UX design and research to craft seamless digital experiences  
+- **Hobbies**: Linux enthusiast 🐧, avid reader 📚, gamer 🎮, and weightlifting enthusiast 💪  
 
-- 🌱 I’m currently learning **Artificial Intelligence** for analyzing large datasets
+---
 
-- 🌟 Passionate about frontend development and anything that require creativity   
+## 🛠️ Tech Stack  
+- **Languages**: Python, Java, JavaScript, C#  
+- **Frameworks**: React.js, Node.js, Django  
+- **Tools**: Git, Linux, Visual Studio Code  
 
-- 🎨 Also enjoy UI design and UX research
+---
 
-- 📫 You can reach me at **nyinyilwin356@gmail.com** or **nyinyilwin0101@gmail.com**
+## 📫 How to Reach Me  
+- **Email**: [nyinyilwin356@gmail.com](mailto:nyinyilwin356@gmail.com) | [nyinyilwin0101@gmail.com](mailto:nyinyilwin0101@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)  
 
-- ⚡ Hobbies **Linux Enthusiast, Reading Novels, Gaming, Weight Lifting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
