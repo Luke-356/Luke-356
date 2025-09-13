@@ -13,13 +13,13 @@
   real-world problems
 
 ### 🌟 Passionate About:
-- Frontend development and building creative, user-friendly applications
-- UI/UX design and research to craft seamless digital experiences
+- Designing and developing applications with best algoritham practices
+- Agile SCRUM method for instance result and feedbacks
 
 ### ⚡ Hobbies:
 - Linux enthusiast 🐧
 - Avid reader 📚
-- Gamer 🎮
+- Building projects 🧑‍💻
 - Weightlifting enthusiast 💪
 
 ### 📫 How to Reach Me:
