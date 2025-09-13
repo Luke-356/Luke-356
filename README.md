@@ -23,7 +23,7 @@
 - Weightlifting enthusiast 💪
 
 ### 📫 How to Reach Me:
-- Email: nyinyilwin356@gmail.com | nyinyilwin0101@gmail.com
+- Email: nyinyilwin356@gmail.com 
 
 ---
 
