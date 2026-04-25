@@ -14,7 +14,8 @@
 - Advanced Linux
   
 ### 🌟 Passionate About:
-- Solving complex problems with data analytics and statistics
+- DevOps Automation and Seamless Software Delivery
+- Solving complex problems with data science and statistics
 - Agile SCRUM method for instance result and feedbacks
 
 ### ⚡ Hobbies:
