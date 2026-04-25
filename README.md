@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Luke-356.Luke-356" />
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> My name is Nyi Nyi Lwin (Luke)</h1>
-<h3 align="center">A passionate Data Analyst and Engineer from New York City</h3>
+<h3 align="center">A passionate DevOps Engineer from New York City</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
@@ -9,9 +9,10 @@
 - A Master’s in Computer Science at Pace University
 
 ### 🌱 Learning:
-- Artificial Intelligence for analyzing large datasets and solving 
-  real-world problems
-
+- DevOps CI/CD and Automation
+- Advanced AWS
+- Advanced Linux
+  
 ### 🌟 Passionate About:
 - Solving complex problems with data analytics and statistics
 - Agile SCRUM method for instance result and feedbacks
