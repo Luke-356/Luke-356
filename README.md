@@ -9,9 +9,9 @@
 - A Master’s in Computer Science at Pace University
 
 ### 🌱 Learning:
-- DevOps CI/CD and Automation
-- Advanced AWS
-- Advanced Linux
+- Graphic Programming
+- C++
+- Game Development
   
 ### 🌟 Passionate About:
 - DevOps Automation and Seamless Software Delivery
