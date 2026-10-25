@@ -12,11 +12,12 @@
 - Graphic Programming
 - C++
 - Game Development
+- Porting games from Windows to Linux/Mac because windows sucks 
   
 ### 🌟 Passionate About:
-- DevOps Automation and Seamless Software Delivery
+- Creativity and developing system that solve daily life nuances in meaningful way. 
 - Solving complex problems with data science and statistics
-- Agile SCRUM method for instance result and feedbacks
+- Gaining new knowledges for the fun of it. 
 
 ### ⚡ Hobbies:
 - Linux enthusiast 🐧
